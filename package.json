@@ -1,0 +1,14 @@
+{
+  "name": "socket",
+  "subdomain": "gnumanth.nodejitsu-demo",
+  "scripts": {
+    "start": "server.js"
+  },
+  "version": "1.0.0-2",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "ws": "*"
+  }
+}
